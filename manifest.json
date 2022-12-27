@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Songs of war",
+  "version": "1.0",
+  "description": "Songs of War FireFox theme by SharpIce",
+    "homepage_url": "https://github.com/FurryRbl/Songs-of-war_FireFox-Themes",
+  "icons": {
+    "128": "icon.ico"
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [ "images/Render_Mix.png" ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [ "center center" ],
+      "additional_backgrounds_tiling": [ "repeat-y" ]
+    },
+    "colors": {
+      "toolbar_text": "rgb(0, 255, 255)",
+      "frame": "rgb(104, 0, 176)",
+      "tab_background_text": "rgb(0, 255, 255)",
+      "toolbar_field": "rgb(185, 71, 255)",
+      "toolbar_field_text": "rgb(81, 12, 169)",
+      "tab_line": "rgb(0, 20, 255)",
+      "popup": "rgb(104, 0, 176)",
+      "popup_text": "rgb(0, 255, 255)",
+      "tab_loading": "rgb(0, 20, 255)"
+    }
+  }
+}
